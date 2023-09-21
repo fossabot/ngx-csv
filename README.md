@@ -3,6 +3,7 @@
 [![npm](https://badgen.net/npm/v/@ctrl/ngx-csv)](https://www.npmjs.com/package/@ctrl/ngx-csv)
 [![CircleCI](https://badgen.net/circleci/github/scttcper/ngx-csv)](https://circleci.com/gh/scttcper/ngx-csv)
 [![coverage](https://badgen.net/codecov/c/github/scttcper/ngx-csv)](https://codecov.io/gh/scttcper/ngx-csv)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fayslanjohnson%2Fngx-csv.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fayslanjohnson%2Fngx-csv?ref=badge_shield)
 
 > Easily generate a CSV download in the browser with Angular
 
@@ -107,3 +108,7 @@ const data = [
 ### See Also
 
 - [react-csv](https://github.com/abdennour/react-csv)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fayslanjohnson%2Fngx-csv.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fayslanjohnson%2Fngx-csv?ref=badge_large)
